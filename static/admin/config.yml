@@ -1,7 +1,10 @@
+site_url: https://magical-paprika-bd010.netlify.app/
+display_url: https://magical-paprika-bd010.netlify.app/
 backend:
   name: git-gateway
   branch: preview
 media_folder: static/images
+publish_mode: editorial_workflow
 public_folder: /images
 collections:
   - name: config
